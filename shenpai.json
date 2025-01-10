@@ -1,10 +1,10 @@
 {
-    "id": "GENSHIN",
-    "name": "Genshin",
-    "author": ["Emmy"],
+    "id": "SHENPAI",
+    "name": "Shenpai",
+    "author": ["Shenpai"],
     "description": "Texture swap.",
-    "prefix": "gen",
-    "main_file": "Genshin.lua",
+    "prefix": "she",
+    "main_file": "shenpai.lua",
     "badge_colour": "c7638f",
     "dependencies": [
         "Steamodded (>=1.0.0~ALPHA-1225a)"
