@@ -1,0 +1,13 @@
+{
+    "id": "GENSHIN",
+    "name": "Genshin",
+    "author": ["Emmy"],
+    "description": "Texture swap.",
+    "prefix": "gen",
+    "main_file": "Genshin.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
